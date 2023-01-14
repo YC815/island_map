@@ -1,0 +1,1 @@
+tellraw @a ">>> island datapack is ready <<<"
